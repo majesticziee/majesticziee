@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/main/assets/logo.png" alt="Ziee" width="400"/>
+  <img src="https://raw.githubusercontent.com/Urz1ee/Urz1ee/refs/heads/main/logo.png" alt="Ziee" width="400"/>
 </p>
 
 ---
