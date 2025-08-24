@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Urz1ee/Urz1ee/logo.png" alt="Ziee" width="400"/>
+  <img src="https://raw.githubusercontent.com/Urz1ee/Urz1ee/refs/heads/main/logo.png" alt="Ziee" width="400"/>
 </p>
 
 ---
@@ -30,19 +30,24 @@ I believe that being a developer is not only about writing code, but also about 
 ---
 
 ### 🚀 Favorite Stacks / Languages
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/><br/>JavaScript
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/><br/>TypeScript
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/><br/>Python
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"/><br/>PHP
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/><br/>HTML
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40"/><br/>CSS
+<p>
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  
+  <!-- TypeScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+  
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+  
+  <!-- PHP -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"/>
+  
+  <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/>
+  
+  <!-- CSS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40"/>
 </p>
 
 ---
