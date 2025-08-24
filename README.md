@@ -1,20 +1,26 @@
 <!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Urz1ee/Urz1ee/refs/heads/main/logo.png" alt="Ziee" width="400"/>
+  <img src="https://raw.githubusercontent.com/username/username/main/assets/logo.png" alt="Ziee" width="400"/>
 </p>
 
 ---
 
 ## 👋 Hi, I'm AHMAD AZIZIE ADNAN
+I'm a beginner **developer** who really enjoys exploring the world of coding.  
+I started my journey by learning how to build simple projects, and now I focus on creating **WhatsApp Bots**, **Telegram Bots**, and **basic Websites**.  
 
-I'm a self-taught **Fullstack Developer** passionate about automation and real-time communication.  
-I love building **WhatsApp Bots**, **Telegram Bots**, and developing **Websites & Web Apps** with modern tech stacks.  
+Even though I'm still learning, I love experimenting with code, trying new features, and building tools that can be useful or just fun to use.  
+My main goal right now is to keep improving my skills in **JavaScript**, **Node.js**, and **Web Development**, while also learning more about automation and APIs.  
 
-### 💻 About Me
-- 🤖 Experienced in creating **WhatsApp & Telegram bots**  
-- 🌐 Enjoy developing **Websites** with responsive & clean UI  
-- ⚡ Skilled in **Node.js**, **JavaScript/TypeScript**, and modern frameworks  
-- 🚀 Always exploring APIs, automation, and cloud deployment  
+I believe that being a developer is not only about writing code, but also about solving problems and creating something meaningful, no matter how small it is.  
+
+---
+
+### 🌱 What I'm Learning
+- How to build and improve **WhatsApp & Telegram Bots**  
+- Creating **simple and responsive Websites**  
+- Getting better with **JavaScript, Node.js, and HTML/CSS**  
+- Understanding how **APIs** and automation work 
 
 <p>
   <img src="https://img.shields.io/badge/wakatime-735%20hrs%203%20mins-blue?logo=wakatime" alt="Wakatime"/>
