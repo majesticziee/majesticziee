@@ -1,15 +1,20 @@
 <!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/main/assets/logo.png" alt="Jadlion" width="400"/>
+  <img src="https://raw.githubusercontent.com/username/username/main/assets/logo.png" alt="Ziee" width="400"/>
 </p>
 
 ---
 
-Hendra Gunawan, 20 years old and self-taught Fullstacks Developer with  
-[7 years learning experience & 1 year professional experience.](#)  
+## 👋 Hi, I'm AHMAD AZIZIE ADNAN
 
-Software Engineering Vocational School graduate with a passion for technology, especially Fullstacks development.  
-I like making Website & Desktop apps, especially apps related to networking such as multiplayer games.
+I'm a self-taught **Fullstack Developer** passionate about automation and real-time communication.  
+I love building **WhatsApp Bots**, **Telegram Bots**, and developing **Websites & Web Apps** with modern tech stacks.  
+
+### 💻 About Me
+- 🤖 Experienced in creating **WhatsApp & Telegram bots**  
+- 🌐 Enjoy developing **Websites** with responsive & clean UI  
+- ⚡ Skilled in **Node.js**, **JavaScript/TypeScript**, and modern frameworks  
+- 🚀 Always exploring APIs, automation, and cloud deployment  
 
 <p>
   <img src="https://img.shields.io/badge/wakatime-735%20hrs%203%20mins-blue?logo=wakatime" alt="Wakatime"/>
@@ -34,23 +39,8 @@ I like making Website & Desktop apps, especially apps related to networking such
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
 </p>
 
-<details>
-  <summary>📦 Tools & Languages</summary>
-  <br/>
-  - TypeScript, Go, Node.js  
-  - Vue, Nuxt, TailwindCSS  
-  - Electron, Webpack  
-  - SQLite, PostgreSQL  
-</details>
-
-<details>
-  <summary>📊 Wakatime Stats</summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username" alt="Wakatime Stats"/>
-</details>
-
 ---
 
-### 🔗 Reach me
-- [Discord](https://discord.com/users/your-discord-id)  
-- [jadlion.dev@gmail.com](mailto:jadlion.dev@gmail.com)
+### Reach Me
+- [Telegram](https://t.me/Urz1ee)  
+- [ziziadnan767@gmail.com](mailto:ziziadnan767@gmail.com)
