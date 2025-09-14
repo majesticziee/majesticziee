@@ -40,9 +40,6 @@ I believe that being a developer is not only about writing code, but also about 
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
   
-  <!-- PHP -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"/>
-  
   <!-- HTML -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/>
   
@@ -53,5 +50,5 @@ I believe that being a developer is not only about writing code, but also about 
 ---
 
 ### 📭 Reach Me
-- [Telegram](https://t.me/Urz1ee)  
+- [Telegram](https://t.me/Pherine)  
 - [ziziadnan767@gmail.com](mailto:ziziadnan767@gmail.com)
