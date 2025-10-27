@@ -29,7 +29,7 @@ I believe that being a developer is not only about writing code, but also about 
 
 ---
 
-### 🚀 Favorite Stacks / Languages
+### 🚀 Favorite Languages
 <p>
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
@@ -39,12 +39,6 @@ I believe that being a developer is not only about writing code, but also about 
   
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-  
-  <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/>
-  
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40"/>
 </p>
 
 ---
